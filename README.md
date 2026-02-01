@@ -1,4 +1,4 @@
-# Targeted Gratuitous ARP Sender
+# Targeted Gratuitous ARP Sender ( NETWORK BLACKHOLE)
 
 **A simple Python tool using Scapy to send targeted unicast gratuitous ARP replies  
 to a single selected host in your local network.**
